@@ -177,3 +177,5 @@ Role: The main entry point. It boots up the Spring application context environme
 ![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/8afa3be69f4a5e0db31307404ff60354544755e2/Spring_crud_operations/screenshots/updating_all_details_of_an_employee.png)
 ### Deleting Employee details using emp_id 103.
 ![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/9f490e385c9088506a12ca05876214b54c6cafff/Spring_crud_operations/screenshots/deleting_employee_details.png)
+### Fetching all Employees details, single employee details for emp_id 101 and exiting application.
+![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/bb6f394070d39517bbb06b98c7d99dc7d8f7ed0a/Spring_crud_operations/screenshots/fetching_details_and_exit.png)
