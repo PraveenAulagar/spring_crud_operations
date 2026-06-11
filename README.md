@@ -165,5 +165,7 @@ Role: The main entry point. It boots up the Spring application context environme
 ![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/286c859d16080d96ac84d933d9cf87e9fd874f64/Spring_crud_operations/screenshots/application.png)
 ### Inserting new Employee
 ![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/b121bbe56e533e926410ac93cfd9bb30679cfbb3/Spring_crud_operations/screenshots/inserting_new_employee_details.png)
-### Updating employee name using employee id. Employee name praveen changed to pravin
+### Updating employee name using emp_id 101. emp-name praveen updated to pravin
 ![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/2e230a0d3b74162222c54b65ec3db1a0ff46edd8/Spring_crud_operations/screenshots/updating_employee_name.png)
+### Updating employee role using emp_id 101. emp_role JR_developer updated to java_developer
+![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/73b720437949424467627dd5f3d2a9252bbb4636/Spring_crud_operations/screenshots/updating_employee_role.png)
