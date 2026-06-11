@@ -162,4 +162,4 @@ File: App.java
 
 Role: The main entry point. It boots up the Spring application context environment, loads database templates, opens an optimized standard input reader (Scanner), handles the user workflow switch tree, and executes transactional updates.
 ### Application started with table data before inserting new employee
-![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/3615e5bc4d02ba75413de4f47043d76a3dc48d44/Spring_crud_operations/screenshots/application.png)
+![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/286c859d16080d96ac84d933d9cf87e9fd874f64/Spring_crud_operations/screenshots/application.png)
