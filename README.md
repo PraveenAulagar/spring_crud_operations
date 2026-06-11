@@ -161,13 +161,15 @@ public class SpringConfigFile {
 File: App.java
 
 Role: The main entry point. It boots up the Spring application context environment, loads database templates, opens an optimized standard input reader (Scanner), handles the user workflow switch tree, and executes transactional updates.
-### Application started with table data before inserting new employee
+### Application started with table data before inserting new employee.
 ![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/286c859d16080d96ac84d933d9cf87e9fd874f64/Spring_crud_operations/screenshots/application.png)
 ### Inserting new Employee
 ![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/b121bbe56e533e926410ac93cfd9bb30679cfbb3/Spring_crud_operations/screenshots/inserting_new_employee_details.png)
-### Updating employee name using emp_id 101. emp_name praveen updated to pravin
+### Updating employee name using emp_id 101. emp_name updated from praveen to pravin.
 ![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/2e230a0d3b74162222c54b65ec3db1a0ff46edd8/Spring_crud_operations/screenshots/updating_employee_name.png)
-### Updating employee role using emp_id 101. emp_role JR_developer updated to java_developer
+### Updating employee role using emp_id 101. emp_role updated from JR_developer to java_developer.
 ![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/73b720437949424467627dd5f3d2a9252bbb4636/Spring_crud_operations/screenshots/updating_employee_role.png)
-### Updating employee email using emp_id 101. emp_email pgmail.com updated to pr@gmail.com
+### Updating employee email using emp_id 101. emp_email from `p@gmail.com` updated to `pr@gmail.com`.
 ![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/f63d74ed0a2706c160a0556ecfbe8968b317dd73/Spring_crud_operations/screenshots/updating_employee_email_id.png)
+### Updating employee salary using emp_id 101. emp_salary updated from 55000 to 60000.
+![image alt](https://github.com/PraveenAulagar/spring_crud_operations/blob/cbe5ed5b4c9646fe4b55429fac6569ccc54cc2f8/Spring_crud_operations/screenshots/updating_employee_salary.png)
